@@ -48,7 +48,7 @@ Debes seguir el C√≥digo de honor del ingeniero de sistemas para defender el est√
 	
 ## Actividad 
 
-enlace a los requerimientos del laboratorio [Laboatorio 1 ](https://github.com/ieti-eci/1.1-react-intro)
+enlace a los requerimientos del laboratorio [Laboratorio 1 IETI ](https://github.com/ieti-eci/1.1-react-intro)
 
 ## Author
 
