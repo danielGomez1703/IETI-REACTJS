@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# IETI REACT JS
 
-In the project directory, you can run:
+## requsites
+    -java version 1.7+
+    -node js
 
-### `npm start`
+## Installation
+ ```sh
+$ git clone https://github.com/danielGomez1703/IETI-REACTJS
+$ cd IETI-REACTJS
+$ npm start
+```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# MANUAL
+  una vez instalado el programa debe ejecutar el programa con el comando mencionado previamente
+  
+	accedera a la ruta http://localhost:3000 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Descripion
+ Este programa Es una introduccion a REACT JS, los ejercicios se centraron en los tutoriales de CodeAcademy y del API de REACTJS
+ 
+ consiste en un formulario hecho con componentes de React, el ususario debe ingresar:
+	text : una descripcion breve de la tarea a realizar
+	priority : un numero asignado va  a ser la prioridad de la actividad.
+	Date : fecha la cual debe ser realizada la actvidad o antes de dicha fecha.
+	
+![formulario](https://github.com/danielGomez1703/IETI-REACTJS/blob/master/resources/formulario.JPG)
 
-### `npm test`
+como resultado podemos ver que en el  boton de agregar hay un contador, para este caso adicionamos dos actividades nuevas
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![evidence](https://github.com/danielGomez1703/IETI-REACTJS/blob/master/resources/evidence1.JPG)
 
-### `npm run build`
+## Codigo de honor
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Código de Honor
+------
+Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Tus respuestas a tareas, cuestionarios y exámenes deben ser tu propio trabajo (excepto para las tareas que permiten explícitamente la colaboración).
 
-### `npm run eject`
+- No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+	
+## Actividad 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+	enlace a los requerimientos del laboratorio [Laboatorio 1 ](https://github.com/ieti-eci/1.1-react-intro)
+## Author
+    Daniel Felipe Gomez Suarez [danielgomez1703](https://github.com/danielGomez1703)
+    
+## BUILT IN
+   Proyecto construido en [React](https://reactjs.org/)
+   
+## License
+----
+para consultar su licencia vaya al link 
+[leer aqui](https://github.com/danielGomez1703/ARSW-Primer/blob/master/LICENSE.txt)
