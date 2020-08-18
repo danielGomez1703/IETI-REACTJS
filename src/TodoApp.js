@@ -55,20 +55,22 @@ class TodoApp extends React.Component {
             <h3>Todos List</h3>
             <br/>
             <table className='table'>
+                <thead>
                     <tr>
                         <th> text </th>
                         <th> priority </th>
                         <th> Date </th>
                     </tr>
-                
-                    { itemsTodo }
+                    </thead>
+                <tbody>
+                    {itemsTodo}
+                    </tbody>
              </table>
       </div>
     );
   }
 
   handleChange(e) {
-      console.log(e.target);
       var property = e.target.name
       this.setState({ [property] : e.target.value });
   }
@@ -85,7 +87,6 @@ class TodoApp extends React.Component {
           priority: this.state.priority,
           dueDate: new Date(this.state.fecha)
       };
-      console.log(newItem);
         this.setState(prevState => ({
           items: prevState.items.concat(newItem),
           text: '',
